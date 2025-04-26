@@ -1,0 +1,143 @@
+{
+    "Imja": [
+      {
+        "Rainfall_Intensity_mmhr": 27.89,
+        "Air_Temp_Change_Cday": 0.86,
+        "Snowmelt_Rate_mmday": 18.86,
+        "Lake_Water_Level_Change_mday": 0.59,
+        "Seismic_Activity_Mag": 3.73,
+        "Ice_Cracking_Signal": -0.00017,
+        "Glacier_Calving_Event": -0.00119,
+        "Landslide_Event": 0.0134,
+        "River_Discharge_Change_pct": 6.70,
+        "Water_Turbidity_Index": 78.65
+      }
+    ],
+    "Tsho Rolpa": [
+      {
+        "Rainfall_Intensity_mmhr": 32.44,
+        "Air_Temp_Change_Cday": 1.12,
+        "Snowmelt_Rate_mmday": 20.10,
+        "Lake_Water_Level_Change_mday": 0.73,
+        "Seismic_Activity_Mag": 4.01,
+        "Ice_Cracking_Signal": 0.0025,
+        "Glacier_Calving_Event": 0.0008,
+        "Landslide_Event": 0.0105,
+        "River_Discharge_Change_pct": 8.90,
+        "Water_Turbidity_Index": 70.40
+      }
+    ],
+    "Thulagi": [
+      {
+        "Rainfall_Intensity_mmhr": 25.67,
+        "Air_Temp_Change_Cday": 0.55,
+        "Snowmelt_Rate_mmday": 17.45,
+        "Lake_Water_Level_Change_mday": 0.49,
+        "Seismic_Activity_Mag": 3.62,
+        "Ice_Cracking_Signal": -0.00011,
+        "Glacier_Calving_Event": -0.00097,
+        "Landslide_Event": 0.0084,
+        "River_Discharge_Change_pct": 5.30,
+        "Water_Turbidity_Index": 76.20
+      }
+    ],
+    "Lower Barun": [
+      {
+        "Rainfall_Intensity_mmhr": 30.12,
+        "Air_Temp_Change_Cday": 0.95,
+        "Snowmelt_Rate_mmday": 19.76,
+        "Lake_Water_Level_Change_mday": 0.68,
+        "Seismic_Activity_Mag": 3.88,
+        "Ice_Cracking_Signal": 0.0013,
+        "Glacier_Calving_Event": -0.0006,
+        "Landslide_Event": 0.0117,
+        "River_Discharge_Change_pct": 7.60,
+        "Water_Turbidity_Index": 73.10
+      }
+    ],
+    "Pangboche": [
+      {
+        "Rainfall_Intensity_mmhr": 28.33,
+        "Air_Temp_Change_Cday": 0.78,
+        "Snowmelt_Rate_mmday": 18.12,
+        "Lake_Water_Level_Change_mday": 0.61,
+        "Seismic_Activity_Mag": 3.70,
+        "Ice_Cracking_Signal": 0.0002,
+        "Glacier_Calving_Event": -0.0005,
+        "Landslide_Event": 0.0096,
+        "River_Discharge_Change_pct": 6.10,
+        "Water_Turbidity_Index": 75.50
+      }
+    ],
+    "Gokyo": [
+      {
+        "Rainfall_Intensity_mmhr": 26.45,
+        "Air_Temp_Change_Cday": 0.69,
+        "Snowmelt_Rate_mmday": 17.89,
+        "Lake_Water_Level_Change_mday": 0.52,
+        "Seismic_Activity_Mag": 3.55,
+        "Ice_Cracking_Signal": 0.0011,
+        "Glacier_Calving_Event": -0.0009,
+        "Landslide_Event": 0.0078,
+        "River_Discharge_Change_pct": 5.90,
+        "Water_Turbidity_Index": 72.40
+      }
+    ],
+    "Tso Moriri": [
+      {
+        "Rainfall_Intensity_mmhr": 22.78,
+        "Air_Temp_Change_Cday": 0.49,
+        "Snowmelt_Rate_mmday": 16.20,
+        "Lake_Water_Level_Change_mday": 0.47,
+        "Seismic_Activity_Mag": 3.45,
+        "Ice_Cracking_Signal": -0.0004,
+        "Glacier_Calving_Event": -0.0010,
+        "Landslide_Event": 0.0067,
+        "River_Discharge_Change_pct": 5.10,
+        "Water_Turbidity_Index": 74.20
+      }
+    ],
+    "Cholamu": [
+      {
+        "Rainfall_Intensity_mmhr": 29.32,
+        "Air_Temp_Change_Cday": 1.00,
+        "Snowmelt_Rate_mmday": 20.65,
+        "Lake_Water_Level_Change_mday": 0.69,
+        "Seismic_Activity_Mag": 3.95,
+        "Ice_Cracking_Signal": 0.0021,
+        "Glacier_Calving_Event": -0.0002,
+        "Landslide_Event": 0.0123,
+        "River_Discharge_Change_pct": 7.80,
+        "Water_Turbidity_Index": 71.00
+      }
+    ],
+    "Tilicho": [
+      {
+        "Rainfall_Intensity_mmhr": 24.15,
+        "Air_Temp_Change_Cday": 0.62,
+        "Snowmelt_Rate_mmday": 18.05,
+        "Lake_Water_Level_Change_mday": 0.55,
+        "Seismic_Activity_Mag": 3.68,
+        "Ice_Cracking_Signal": 0.0006,
+        "Glacier_Calving_Event": -0.0007,
+        "Landslide_Event": 0.0088,
+        "River_Discharge_Change_pct": 6.20,
+        "Water_Turbidity_Index": 73.30
+      }
+    ],
+    "Rara": [
+      {
+        "Rainfall_Intensity_mmhr": 21.89,
+        "Air_Temp_Change_Cday": 0.41,
+        "Snowmelt_Rate_mmday": 14.72,
+        "Lake_Water_Level_Change_mday": 0.42,
+        "Seismic_Activity_Mag": 3.40,
+        "Ice_Cracking_Signal": -0.0002,
+        "Glacier_Calving_Event": -0.0011,
+        "Landslide_Event": 0.0056,
+        "River_Discharge_Change_pct": 4.90,
+        "Water_Turbidity_Index": 70.80
+      }
+    ]
+  }
+  
